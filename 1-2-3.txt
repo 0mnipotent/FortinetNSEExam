@@ -1,0 +1,233 @@
+Q: What is it called when a fraudulent email masquerades as a legitimate communication in an attempt to get a user to reveal sensitive information?
+A: Phishing
+
+Q: What central component is necessary to form a botnet?
+A: Command & Control (C&C) Server.
+
+Q: What is the root cause of almost every data breach?
+A: Human error.
+
+Q: Which description best explains cybersecurity?
+A: Protecting networks, devices, and data from unauthorized access.
+
+Q: Which two characteristics are examples of poor passwords? (Choose two.)
+A: A predictable sequence of numbers or words; A commonly used word or unchanged default password.
+
+Q: Identify three examples of personally identifiable information (PII). (Choose three.)
+A: Credit card; Biometrics, such as a fingerprint; Full name.
+
+Q: Which description best identifies vishing?
+A: A phone exploitation that often relies on caller ID to appear legitimate.
+
+Q: What does the term “Thin Edge” refer to?
+A: Branch locations with minimal security that are attached to a core network.
+
+Q: Which description best explains the zero-trust approach that is the basis for ZTNA design?
+A: No device or user can be trusted inside or outside the network.
+
+Q: What method is recommended to manage passwords?
+A: Use a password manager.
+
+Q: What is an example of a password that best follows the password guidelines in this lesson?
+A: J&JwutH2f@P0W
+
+Q: What is the central purpose of FortiGuard Labs?
+A: To provide security services.
+
+Q: Which best describes the Zero Trust Access solution pillar?
+A: Enables organizations to see and control everyone and everything on the network.
+
+Q: Which product can manage and automatically provision FortiClient to endpoints?
+A: FortiManager.
+
+Q: Which two security practices make your home wireless network safer? (Choose two.)
+A: Pick passphrases that are hard to guess; Keep your router firmware up to date.
+
+Q: Which security platform does FortiClient EMS integrate with to increase visibility and compliance control?
+A: Fortinet Security Fabric.
+
+Q: Which product helps protect end users who are prone to clicking on phishing scams?
+A: FortiClient.
+
+Q: Which three major functions does FortiAuthenticator provide? (Choose three.)
+A: Identity management; Wired and wireless authentication; Secure access with two-factor authentication.
+
+Q: Which product category best describes FortiAuthenticator?
+A: Identity Management.
+
+Q: Which two management options can be used to manage FortiAP? (Choose two.)
+A: FortiGate; FortiManager.
+
+Q: Complete the sentence to identify which method determines Fortinet ZTA micro-segmentation. FortiNAC micro-segments the network according to…
+A: User role and device function.
+
+Q: Which three methods are common implementations of secure remote access? (Choose three.)
+A: IPsec VPN; SSL VPN; ZTNA.
+
+Q: What are three core capabilities of SASE? (Choose three.)
+A: Zero trust network access (ZTNA); Data loss prevention; Next-Generation firewall.
+
+Q: Which challenge caused secure email gateway (SEG) to adopt automation and machine learning?
+A: Volume of attacks.
+
+Q: Which option identifies the trend of phishing?
+A: Increasing.
+
+Q: In addition to a spam filter, which two technologies are often a part of secure email gateway (SEG)? (Choose two.)
+A: Sandbox; Antivirus scanner.
+
+Q: Which behavior does a sandbox look for when searching for malware?
+A: Behaved abnormally.
+
+Q: Which feature characterizes third-generation sandbox technology?
+A: Automation and artificial intelligence.
+
+Q: Why did some people object to web filters?
+A: They censored information.
+
+Q: Which three traits are characteristics of a next-generation firewall (NGFW)? (Choose three.)
+A: Can segment a network based on user, device, and application type; Controls applications based on type or who the user is; Delivers high-performance inspection.
+
+Q: Which type was the first generation of firewalls?
+A: Packet filter.
+
+Q: What was the limitation of first-generation firewalls?
+A: Filtered only at layer 3 of the OSI model.
+
+Q: Which firewall generation can you configure to allow a user to connect to Facebook, but not watch videos from that site?
+A: Next-generation firewall (NGFW).
+
+Q: Which technique used by a threat actor is known as spam?
+A: Irrelevant or inappropriate messages sent on the internet to a large number of recipients.
+
+Q: Which method best defeats unknown malware?
+A: Sandboxing.
+
+Q: What is a zero-day attack?
+A: A cyberattack that exploits an unknown software vulnerability.
+
+Q: Which product is used as the connection point to the network for wireless devices?
+A: FortiAP.
+
+Q: Which Fortinet product is used to profile devices in order to detect changes to device characteristics?
+A: FortiNAC.
+
+Q: What was the fundamental function of FortiSwitch?
+A: Securely connects devices on a computer network.
+
+Q: What is the benefit of the Fortinet security rating?
+A: Provides a quantifiable measure of a network’s security posture.
+
+Q: What feature in FortiGate is used to create policies that allow, deny, or restrict access to applications?
+A: Application control.
+
+Q: Which two methods are used by threat actors to compromise your device when conducting phishing campaigns? (Choose two.)
+A: An embedded hyperlink within an email; An attachment to an email.
+
+Q: Which service is used as part of endpoint detection and response (EDR)?
+A: Forensics investigation tool.
+
+Q: What were the motivation for SIEM? (Choose two.)
+A: Increasing number of alerts; Complying to regulations.
+
+Q: What does SIEM do primarily?
+A: Collect, normalize, and store log events and alerts.
+
+Q: How does NAC effectively segment a network?
+A: Using user roles.
+
+Q: Which type was the first generation of firewalls?
+A: Packet filter.
+
+Q: What is the function of FortiGate?
+A: Next generation firewall.
+
+Q: What is the benefit of SOAR?
+A: It increases security team efficacy by automating repetitive processes.
+
+Q: What are three reasons SOAR is used? (Choose three.)
+A: Accelerate response times; Reduce alert fatigue; Compensate for the skill shortage.
+
+Q: What is the central purpose of FortiGuard Labs?
+A: To provide security services.
+
+Q: Which type of malware seriously reduced the effectiveness of signature-based antivirus?
+A: Polymorphic.
+
+Q: Which term best describes FortiGate?
+A: Next generation firewall.
+
+Q: Which product acts as the connection point to the network for wireless devices?
+A: FortiAP.
+
+Q: What is a common use case for an implementation of SOAR by customers?
+A: Phishing investigations.
+
+Q: What is alert fatigue?
+A: Analysts are overwhelmed by the number of alerts.
+
+Q: What are the three core capabilities of SASE? (Choose three.)
+A: Zero trust network access (ZTNA); Data loss prevention; Next-Generation firewall.
+
+Q: How do threat actors target endpoints in a network?
+A: They are an easy point of entry into a network.
+
+Q: Which two prevention-focused attributes are found in most contemporary endpoint security solutions? (Choose two.)
+A: Virtual patches; Machine learning (ML).
+
+Q: When would you use FortiSwitch Cloud?
+A: When FortiSwitch devices are attached and managed by FortiGate Cloud.
+
+Q: What is a zero-day attack?
+A: A cyberattack that exploits an unknown software vulnerability.
+
+Q: Which failing characterized early sandbox technology?
+A: Lack of integration with other security devices.
+
+Q: Which attribute best describes how early web filters worked?
+A: Web filters are rule-based.
+
+Q: Why did some people object to web filters?
+A: They censored information.
+
+Q: Which three methods are used by threat actors to compromise your device when conducting phishing campaigns? (Choose three.)
+A: An embedded hyperlink within an email; An attachment to an email; Click bait.
+
+Q: What is the trend of phishing?
+A: Increasing.
+
+Q: What is a potential problem that customers risk if they rely solely on vendor cloud security tools?
+A: The tools provide basic security and do not secure all facets of a multi-cloud environment.
+
+Q: Which action should you take if you receive an email asking for your password and personal information?
+A: Delete and report it to the bank using the contact information found on their official website.
+
+Q: Which statement best describes personally identifiable information (PII)?
+A: Any information that someone can use to identify you.
+
+Q: What is the root cause of most data breaches?
+A: Human error.
+
+Q: Which method is recommended to manage passwords?
+A: Use a password manager.
+
+Q: What are two benefits of SASE? (Choose two.)
+A: Consistent security for mobile workforces; Optimized paths for all users to all clouds to improve performance and agility.
+
+Q: Which description best identifies vishing?
+A: A phone exploitation that often relies on caller ID to appear legitimate.
+
+Q: Which two types of devices are considered endpoints, according to the description in the lesson? (Choose two.)
+A: Servers; Computer devices used by end users.
+
+Q: Which description best identifies the term malicious code?
+A: An unwanted file or program that can cause harm to, or compromise data on, a computer.
+
+Q: What is it called when a fraudulent email masquerades as a legitimate communication in an attempt to get a user to reveal sensitive information?
+A: Phishing.
+
+Q: What central component is necessary to form a botnet?
+A: Command & Control (C&C) Server.
+
+Q: Which definition best describes personally identifiable information (PII)?
+A: Any information that someone can use
